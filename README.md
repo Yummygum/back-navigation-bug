@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project demonstrates an issue with browser back navigation when using dynamic routing in **Next.js 15.2.4**.
+This project demonstrates an issue with browser back navigation when using dynamic routing in **Next.js**.
 
 ## 🎯 Steps to Reproduce
 
